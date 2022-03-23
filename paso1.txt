@@ -1,3 +1,7 @@
 esto es una prueba de respositorio
 en el curso de platzi de Git y Github
 Yeferson
+
+ahora le estamos agragando actaulizaciones en el archivo
+
+se pone bueno
