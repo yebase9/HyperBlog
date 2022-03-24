@@ -2,5 +2,12 @@ body
 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: darkred;
+    color: darkorange;
+}
+img
+{
+    height: 50%;
+    width: 50%;
+    border-radius: 500%;
+    
 }
