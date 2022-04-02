@@ -11,3 +11,18 @@ img
     border-radius: 150%;
     
 }
+#cabecera
+{
+    background: darkorange  ;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5 em;
+}
+#cabecera #tagline
+{
+    padding: o o o 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
